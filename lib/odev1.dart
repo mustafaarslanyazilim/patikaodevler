@@ -41,4 +41,8 @@ void main() {
   print(soyadi);
   print(yas);
   print(resitDurumu);
+  print("Adı: $adi");
+  print("Soyadi: $soyadi");
+  print("Yaş: $yas");
+  print("Reşit mi: $resitDurumu");
 }
